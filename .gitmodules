@@ -1,0 +1,3 @@
+[submodule "quarkus-urlshortener"]
+	path = quarkus-urlshortener
+	url = https://github.com/wagner4400/quarkus-urlshortener
