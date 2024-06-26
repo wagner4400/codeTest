@@ -1,1 +1,1 @@
-test
+Urk Shortener - https://github.com/wagner4400/quarkus-urlshortener
